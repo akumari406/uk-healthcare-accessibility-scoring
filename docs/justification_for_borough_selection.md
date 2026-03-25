@@ -3,7 +3,7 @@
 The London Borough of Camden was selected as the case study area for this research due to its demographic diversity, urban complexity, and significant health infrastructure, making it a compelling context for accessibility assessment research.
 
 Camden is a densely populated inner London borough, covering approximately 22 square kilometres but ranking among the highest boroughs in population density, with an estimated population of around 220,000–270,000 residents depending on source and projection method. This concentration provides a rich urban environment in which variations in accessibility can be meaningfully observed.  
-*Source: Camden Council*
+*Source: https://www.camden.gov.uk/en/state-of-the-borough-report*
 
 The borough also displays marked social and spatial contrasts, including areas of significant affluence and areas of relative deprivation within a compact geography. This heterogeneity is relevant in accessibility research because it intersects with factors such as health inequalities, variations in built environment quality, and differential demand for accessible services.  
 *Source: Camden Council*

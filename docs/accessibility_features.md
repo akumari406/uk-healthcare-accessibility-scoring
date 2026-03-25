@@ -104,7 +104,21 @@ Each feature includes:
 **A4. Data Limitations**
 - NHS website data may be incomplete or inconsistent  
 - OSM coverage varies by location  
-- Accessibility features may not always be explicitly documented  
+- Accessibility features may not always be explicitly documented
+
+**A6. Public Transport Accessibility Level (PTAL)**  
+PTAL is a UK-specific metric developed by Transport for London (TfL) to quantify how well a location is served by public transport. It combines:
+- Walking time to nearby public transport access points (PTAPs)
+- Service frequency and reliability
+
+PTAL values are categorised from **0 (very poor accessibility)** to **6b (excellent accessibility)**.
+
+In this research, PTAL is used as a **proxy for transport connectivity**, but it has important limitations:
+- It does not account for **step-free access or physical barriers**
+- It is primarily available for **London**, limiting nationwide consistency
+- It does not reflect **user-specific accessibility needs** (e.g., wheelchair users)
+
+Therefore, PTAL is used alongside additional features such as step-free routes and accessible stations to provide a more comprehensive accessibility assessment.
 
 **A5. Interpretation Note**
 Not all features contribute equally to accessibility. Weighting and aggregation methods are defined separately in the scoring model.

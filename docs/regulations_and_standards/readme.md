@@ -17,5 +17,8 @@ BS 8300 is a **British Standard** providing best practice guidance for the desig
 
 Note: Full access is available for BS 8300-1:2018, while only a preview (review version) is available for BS 8300-2:2018.
 
-## 
+## Inclusive Mobility
+Inclusive Mobility is official guidance published by the UK government that outlines best practices for designing streets and pedestrian environments to be accessible for disabled people, particularly those with mobility impairments. It covers key aspects of the outdoor built environment, including footways, gradients, crossings, street furniture, and surface conditions.
+
+
 
